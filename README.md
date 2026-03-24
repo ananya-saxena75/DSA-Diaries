@@ -1,6 +1,6 @@
 # DSA-Diaries
 A collection of Data Structures and Algorithms problems solved in Java.
-# 🚀 ABS DSA Journey
+# 🚀 DSA Journey
 
 Welcome to my Data Structures and Algorithms journey!  
 This repository contains my solutions to various DSA problems implemented in **Java**.
